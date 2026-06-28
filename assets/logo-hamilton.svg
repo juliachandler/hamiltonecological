@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 150" role="img" aria-label="Hamilton Ecological Consulting">
+  <title>Hamilton Ecological Consulting</title>
+  <circle cx="75" cy="75" r="58" fill="#e3ede7"/>
+  <path d="M75 32 C 102 50 102 100 75 118 C 48 100 48 50 75 32 Z" fill="#2f6b4f"/>
+  <g stroke="#e3ede7" stroke-width="2.4" fill="none" stroke-linecap="round">
+    <path d="M75 42 L75 110"/>
+    <path d="M75 60 L62 51"/><path d="M75 60 L88 51"/>
+    <path d="M75 76 L60 66"/><path d="M75 76 L90 66"/>
+    <path d="M75 92 L62 83"/><path d="M75 92 L88 83"/>
+  </g>
+  <text x="158" y="72" font-family="'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, serif" font-size="34" font-weight="700" fill="#21513b">Hamilton Ecological</text>
+  <text x="160" y="103" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" letter-spacing="5.5" fill="#4a564f">CONSULTING</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 250" role="img" aria-label="Hamilton Ecological Consulting">
+  <title>Hamilton Ecological Consulting — badge</title>
+  <circle cx="180" cy="80" r="68" fill="#e3ede7"/>
+  <circle cx="180" cy="80" r="68" fill="none" stroke="#2f6b4f" stroke-width="3"/>
+  <circle cx="180" cy="80" r="58" fill="none" stroke="#2f6b4f" stroke-width="1"/>
+  <rect x="174" y="98" width="12" height="18" rx="2" fill="#21513b"/>
+  <polygon points="180,40 198,68 162,68" fill="#2f6b4f"/>
+  <polygon points="180,58 206,96 154,96" fill="#2f6b4f"/>
+  <polygon points="180,76 214,120 146,120" fill="#2f6b4f"/>
+  <text x="180" y="190" text-anchor="middle" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,serif" font-size="26" font-weight="700" fill="#21513b">Hamilton Ecological</text>
+  <text x="180" y="218" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" letter-spacing="6" fill="#4a564f">CONSULTING</text>
+</svg>

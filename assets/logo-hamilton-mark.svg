@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" role="img" aria-label="Hamilton Ecological Consulting mark">
+  <title>Hamilton Ecological Consulting — mark</title>
+  <circle cx="75" cy="75" r="58" fill="#e3ede7"/>
+  <path d="M75 32 C 102 50 102 100 75 118 C 48 100 48 50 75 32 Z" fill="#2f6b4f"/>
+  <g stroke="#e3ede7" stroke-width="2.4" fill="none" stroke-linecap="round">
+    <path d="M75 42 L75 110"/>
+    <path d="M75 60 L62 51"/><path d="M75 60 L88 51"/>
+    <path d="M75 76 L60 66"/><path d="M75 76 L90 66"/>
+    <path d="M75 92 L62 83"/><path d="M75 92 L88 83"/>
+  </g>
+</svg>
